@@ -72,3 +72,5 @@ There are also features I am not supporting because based on my research it seem
   * seems to require Date function
 * Regex
   * I ran out of time. This may be as simple as passing the literal regex to SQL or it may be as complex as converting from one regex language to another.
+* String escape chars
+  * Mongo probably lets you escape a quote in a string (like '\'') 
